@@ -37,11 +37,11 @@ int main() {
 
 	//printf("%d \n", ++number);
 
-	printf("%d \n", number++);
-	printf("%d \n", --number);
-	printf("%d \n", ++number);
-	printf("%d \n", number--);
-	printf("%d \n", number);
+	printf("%d \n", number++); //  0
+	printf("%d \n", --number); // 0
+	printf("%d \n", ++number); // 1
+	printf("%d \n", number--); // 0
+	printf("%d \n", number); // 0
 	
 	
 	

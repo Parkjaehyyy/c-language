@@ -4,11 +4,38 @@ int main() {
 	// 사칙연산
 	int a = 20; 
 	int b = 10;
-	printf("%d + %d = %d\n", a, b, a+b);
-	printf("%d - %d = %d\n", a, b, a - b);
-	printf("%d / %d = %d\n", a, b, a / b);
-	printf("%d * %d = %d\n", a, b, a * b);
-	printf("%d %% %d = %d\n", a, b, a % b); // 나머지 연산
+	//printf("%d + %d = %d\n", a, b, a+b);
+	//printf("%d - %d = %d\n", a, b, a - b);
+	//printf("%d / %d = %d\n", a, b, a / b);
+	//printf("%d * %d = %d\n", a, b, a * b);
+	//printf("%d %% %d = %d\n", a, b, a % b); // 나머지 연산
+
+
+	// 대입연산
+	a = a + 10;
+	printf("%d \n", a);
+	a += 10;
+	printf("%d \n", a);
+	a -= 10; // a = a - 10;
+	printf("%d \n", a);
+	a *= 10; // a = a * 10;
+	printf("%d \n", a);
+	a %= 6; // a = a % 6;
+	printf("%d \n", a);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	return 0;

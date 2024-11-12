@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="datartype.c" />
+    <ClCompile Include="homework.c" />
     <ClCompile Include="index.c" />
+    <ClCompile Include="string.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

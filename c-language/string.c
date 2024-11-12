@@ -12,18 +12,36 @@ int main() {
 
 
 	// 대입연산
-	a = a + 10;
-	printf("%d \n", a);
-	a += 10;
-	printf("%d \n", a);
-	a -= 10; // a = a - 10;
-	printf("%d \n", a);
-	a *= 10; // a = a * 10;
-	printf("%d \n", a);
-	a %= 6; // a = a % 6;
-	printf("%d \n", a);
+	//a = a + 10;
+	//printf("%d \n", a);
+	//a += 10;
+	//printf("%d \n", a);
+	//a -= 10; // a = a - 10;
+	//printf("%d \n", a);
+	//a *= 10; // a = a * 10;
+	//printf("%d \n", a);
+	//a %= 6; // a = a % 6;
+	//printf("%d \n", a);
 	
 	
+	// 증감연산
+	a++; // a = a + 1;
+	++a; // a = a + 1;
+
+	a--; // a = a - 1;
+	--a; // a = a - 1;
+
+	int number = 0;
+	//printf("%d \n", number++);
+	//printf("%d \n", number);
+
+	//printf("%d \n", ++number);
+
+	printf("%d \n", number++);
+	printf("%d \n", --number);
+	printf("%d \n", ++number);
+	printf("%d \n", number--);
+	printf("%d \n", number);
 	
 	
 	

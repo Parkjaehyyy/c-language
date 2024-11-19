@@ -11,18 +11,18 @@
 //}
 
 
-int main() {
-	int number;
-
-	scanf_s("%d", &number);
-	
-	// 조건 and 조건 && 
-	if (!(number < 20 || 30 < number)) {
-		printf("teen");
-	}
-	else {
-		printf("not teen");
-	}
-
-	return 0;
-}
+//int main() {
+//	int number;
+//
+//	scanf_s("%d", &number);
+//	
+//	// 조건 and 조건 && 
+//	if (!(number < 20 || 30 < number)) {
+//		printf("teen");
+//	}
+//	else {
+//		printf("not teen");
+//	}
+//
+//	return 0;
+//}

@@ -6,7 +6,6 @@
 //	return 0;
 }
 
-
 int main(){
 	int number = 1;
 		printf("%d\n",number++); // 1 (후위 증가 ) //printf("%d\n", number); > 2 (위에 후위 증가이기때문에 number는 2으로 출력)
@@ -30,4 +29,24 @@ int main(){
 * 정수 : short , int , long 이있고 각각 ( 2 . 4 . 8 비틀사용)
 * 실수 : float, double
 * 논리형이있다 
+*/
+
+
+
+// 2개의 정수를 입력받아서 
+// 해당 좌표가 몇 사분면이지 출력해주세요
+// 
+/*
+if () {
+
+}
+if () {
+
+}
+if () {
+
+}
+if () {
+
+}
 */

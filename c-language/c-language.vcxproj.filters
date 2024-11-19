@@ -27,7 +27,10 @@
     <ClCompile Include="string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="True or false.c">
+    <ClCompile Include="printexample1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="true.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

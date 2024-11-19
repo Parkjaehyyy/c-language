@@ -131,7 +131,8 @@
     <ClCompile Include="homework.c" />
     <ClCompile Include="index.c" />
     <ClCompile Include="string.c" />
-    <ClCompile Include="True or false.c" />
+    <ClCompile Include="printexample1.c" />
+    <ClCompile Include="true.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

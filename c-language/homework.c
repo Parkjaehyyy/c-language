@@ -1,11 +1,12 @@
-//#include<stdio.h>
+/*
+#include<stdio.h>
 //int main() {
 //	int a = 10, b = 50, c = 70;
 //	printf("%d,%d,%d\n", a, b, c);
 //	return 0;
-//}
+}
 
-#include<stdio.h>
+
 int main(){
 	int number = 1;
 		printf("%d\n",number++); // 1 (후위 증가 ) //printf("%d\n", number); > 2 (위에 후위 증가이기때문에 number는 2으로 출력)
@@ -19,5 +20,14 @@ int main(){
 
 
 
-return 0 ;
-}
+* github란 형상관리툴 / 버전관리툴
+* clone : git에 올라온 파일을 다운받는 행위
+* commit : 내가 수정한 파일을 관리툴에 올리는 행위
+* push : 수정한 파일을 관리툴에 올리는 행위
+* pull : 수정한 파일을 타인이 받아 수정하는 행위
+* 문자 수식 :  char
+* 숫자 있다 : 정수와 실수 
+* 정수 : short , int , long 이있고 각각 ( 2 . 4 . 8 비틀사용)
+* 실수 : float, double
+* 논리형이있다 
+*/

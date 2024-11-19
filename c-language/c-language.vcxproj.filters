@@ -33,5 +33,11 @@
     <ClCompile Include="true.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Sacnprint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="proob.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

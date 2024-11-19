@@ -130,6 +130,8 @@
     <ClCompile Include="datartype.c" />
     <ClCompile Include="homework.c" />
     <ClCompile Include="index.c" />
+    <ClCompile Include="proob.c" />
+    <ClCompile Include="Sacnprint.c" />
     <ClCompile Include="string.c" />
     <ClCompile Include="printexample1.c" />
     <ClCompile Include="true.c" />

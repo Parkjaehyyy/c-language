@@ -136,6 +136,7 @@
     <ClCompile Include="Sacnprint.c" />
     <ClCompile Include="string.c" />
     <ClCompile Include="printexample1.c" />
+    <ClCompile Include="swap1.c" />
     <ClCompile Include="true.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

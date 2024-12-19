@@ -1,0 +1,1 @@
+#include <stdio.h>// 포인터를 사용하지 않은 swap 함수void swap(int a, int b) {  int temp = a;  a = b;  b = temp;}int main() {  int x = 10, y = 20;  printf("교환 전: x = %d, y = %d\n", x, y);  swap(x, y);  // 값만 전달  printf("교환 후: x = %d, y = %d\n", x, y);  // 값이 바뀌지 않음  return 0;}

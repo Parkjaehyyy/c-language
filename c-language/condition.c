@@ -1,4 +1,4 @@
-#include<stdio.h>
+/* #include<stdio.h>
 int condtion1(){
 	int a = 7;
 	if (a > 5) {
@@ -53,7 +53,7 @@ int con3() {
 		printf("F");
 	}
 }
-
+*/
 
 
 

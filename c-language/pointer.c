@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 int pointer1() {
 	int number = 3;
@@ -35,5 +35,6 @@ int pointer4() {
 	*pointer = 7;
 	printf("number의값:%d\n", number);
 }
+*/
 
 

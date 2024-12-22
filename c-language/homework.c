@@ -28,7 +28,7 @@
 	 2개의 정수를 입력받아서
 	 해당 좌표가 몇 사분면이지 출력해주세요
 	*/
-int homework1() {
+int main(){
 	int x;
 	int y;
 	printf("X값 :");

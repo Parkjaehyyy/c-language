@@ -1,4 +1,4 @@
-//#include<stdio.h>
+/* #include<stdio.h>
 //int main() {
 	//int number;
 	//int number1;
@@ -10,7 +10,6 @@
 	//return 0;
 //}
 
-/*
 int main() {
 	int number;
 	printf("right now teen or not teen ");
@@ -26,7 +25,7 @@ int main() {
 
 	return 0;
 }
-/*
+
 int main() {
 	int number;
 	printf("I'M Park Jae Hyeon.\n");

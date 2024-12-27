@@ -27,7 +27,7 @@
 	* 논리형이있다
 	 2개의 정수를 입력받아서
 	 해당 좌표가 몇 사분면이지 출력해주세요
-	*/
+	
 int main(){
 	int x;
 	int y;
@@ -52,9 +52,7 @@ int main(){
 	if ( 0 = x && y = 0 ){
 	printf("중앙");
 	}
-	*/
-	return 0;
-}
+	
 //	int a = 10, b = 50, c = 70;
 //	printf("%d,%d,%d\n", a, b, c);
 //	return 0;

@@ -36,5 +36,3 @@ int pointer4() {
 	printf("number의값:%d\n", number);
 }
 */
-
-

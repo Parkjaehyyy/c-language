@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A.c" />
     <ClCompile Include="condition.c" />
     <ClCompile Include="datartype.c" />
     <ClCompile Include="homework.c" />

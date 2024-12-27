@@ -14,8 +14,6 @@ int main() {
 	float d = 8.0f;
 	double e = 8.0;
 
-
-	
 	서식 문자 %d < 10진법 - %f < 실수  
 	printf("%d\n", a);
 	printf("%d\n", b);
